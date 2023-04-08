@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elvinoo.github.io/Assig/static/css/main.f7c9f623.css",
+    "main.js": "/elvinoo.github.io/Assig/static/js/main.863c8570.js",
+    "static/js/787.397fec01.chunk.js": "/elvinoo.github.io/Assig/static/js/787.397fec01.chunk.js",
+    "index.html": "/elvinoo.github.io/Assig/index.html",
+    "main.f7c9f623.css.map": "/elvinoo.github.io/Assig/static/css/main.f7c9f623.css.map",
+    "main.863c8570.js.map": "/elvinoo.github.io/Assig/static/js/main.863c8570.js.map",
+    "787.397fec01.chunk.js.map": "/elvinoo.github.io/Assig/static/js/787.397fec01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c9f623.css",
+    "static/js/main.863c8570.js"
+  ]
+}
